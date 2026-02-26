@@ -1,12 +1,12 @@
 {
-    "name": "binance/binance-connector-php",
+    "name": "maxlcoder/binance-connector-php",
     "description": "A thin layer for Binance API in PHP",
-    "homepage": "https://github.com/binance/binance-connector-php",
+    "homepage": "https://github.com/maxlcoder/binance-connector-php",
     "license": "MIT",
     "authors": [
         {
-            "name": "Binance",
-            "email": "contact@binance.com"
+            "name": "Woody",
+            "email": "liurenlin77@gmail.com"
         }
     ],
     "require": {
