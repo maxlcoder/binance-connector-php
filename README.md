@@ -13,7 +13,7 @@ Collection of auto-generated PHP connectors for Binance APIs.
 
 Before using the connectors, ensure you have:
 
-- **PHP** (version >= 8.4.0)
+- **PHP** (version >= 8.1.0)
 
 ## Available Connectors
 - [binance-algo](src/algo) - Algo Trading connector
